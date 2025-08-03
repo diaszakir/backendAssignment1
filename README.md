@@ -1,11 +1,6 @@
-Assignment 1
+# BMI Calculator
+## ***Description***
 
-BMI Calculator
----
----
-***Description***
----
----
 A BMI calculator built using node.js and express.js and html with css
 
 How to Execute?
